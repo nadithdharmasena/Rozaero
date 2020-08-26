@@ -1,6 +1,12 @@
 # Rozaero
 Cooperative playlist generator that allows guests to influence the composition and order of an event's playlist.
 
+## Quick Demo
+
+This brief demo has been included to provide readers with a visualization of the application. The complete explanation of the following GIF exists in the Rozaero UI repo.
+
+![](docs/Rozaero-Login-Influencing.gif)
+
 ## Components
 
 Access the mobile application repo at [Rozaero UI](https://github.com/nadithdharmasena/rozaero-ui).
