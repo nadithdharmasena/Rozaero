@@ -3,7 +3,7 @@ Cooperative playlist generator that allows guests to influence the composition a
 
 ## Quick Demo
 
-This brief demo has been included to provide readers with a visualization of the application. The complete explanation of the following GIF exists in the Rozaero UI repo.
+The complete explanation of the following GIF exists in the Rozaero UI repo.
 
 ![](docs/Rozaero-Login-Influencing.gif)
 
